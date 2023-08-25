@@ -1,0 +1,97 @@
+.site-header {
+    background-image: url(../../images/limon.png);
+    background-size: contain;
+    padding-bottom: 536px;
+    padding-top: 34px;
+}
+
+.header-box {
+    display: flex;
+    align-items: center;
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+    gap: 47px;
+    margin-left: auto;
+    list-style: none;
+    margin-right: 47px;
+}
+
+.header-link {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.129px;
+}
+
+.header-btn {
+    color: #24303E;
+    font-family: Fraunces 9pt Soft;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px; /* 166.667% */
+    letter-spacing: -0.107px;
+    text-transform: uppercase;
+    width: 140px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 28px;
+    background: #FFF;
+    border: none;
+    cursor: pointer;
+}
+
+.header-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Fraunces 9pt Soft;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 8.75px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.header-link-ul {
+    display: flex;
+    color: #458D7E;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.129px;
+    text-decoration: none;
+    margin-left: 200px;
+    gap: 57px;          
+}
+
+.header-box-img {
+    background:#90D4C6;
+}
+
+.header-box-title {
+    color: #A7AAAD;
+    text-align: center;
+    font-family: Fraunces 9pt Soft;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 5px;
+    align-items: center;
+    padding-top: 160px;
+    margin-bottom: 0;
+}
+
+
+
